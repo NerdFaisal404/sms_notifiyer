@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Faisal Ahmed\.gradle\caches\modules-2\files-2.1\com.crashlytics.android\crashlytics\1.1.13\e821eafa1bf489a26bdb71f95078c26785b37a1\crashlytics-1.1.13.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e821eafa1bf489a26bdb71f95078c26785b37a1">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\crashlytics-1.1.13-eb570714d3ed1321ce6898efb26a1106cf759cc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-a87bdf7189d0d20a51e2da4b9b623ef72805a11a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.wdullaer\materialdatetimepicker\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="23172c0a2e5ecdadfcf2f003093ad0cb6d5f725f">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-aa3904952dba6fb1a44d1b088226c147826d99ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\.gradle\caches\modules-2\files-2.1\com.googlecode.libphonenumber\libphonenumber\5.8\20dbdcb6cfd201af345c1ba9fc2a164a4d532c79\libphonenumber-5.8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="20dbdcb6cfd201af345c1ba9fc2a164a4d532c79">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\libphonenumber-5.8-8e8e1e90d1b4f1d9923aa49635a786813746184d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\ormlite-android-4.48-d61fdf08a1147e384402fa2ca2a11c3fc4e25a0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-75c14e601b845508c4df39b658f29014026a91cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\ormlite-core-4.48-203490847e87b5796bb7705731efe611870b0fe1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-7010ebca70809ed66c8589d1b44f1ba3866da2af.jar" />
+    </item>
+    <item
+        jar="D:\Android-Studio-sdk-update\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\support-annotations-23.1.1-7faebecaa2233b234a83c92256578e96ced1d79b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-99078e4c038b14463f80633099f73d837de65abc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2abde49a8d53539fa902ab5b8d29698023b262dd">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-1ee35f5eeab93b2eeeb3147340306a5f94eef313.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.github.traex.rippleeffect\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ee17feb34ce104bc17d1a1e64346d7f779ebb066">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-a3f0a1f3042e8959d19157710843ceb090773bd2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\internal_impl-23.1.1-4843b28f0c4f32ef74e02de3b8319fe8f197d2b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\libs\universal-image-loader-1.8.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09995ba681982ca129af798c9eb21e79c4bffa45">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\universal-image-loader-1.8.6-d3c09e732cf5259ada60585f4f6457dcb46d74e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\exploded-aar\sms_notifiyer\MaterialWidgerLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c11667329cda2ad4e52ad7fcac9cf552c7578602">
+        <dex dex="C:\Users\Faisal Ahmed\Dropbox (Kodeeo)\sms_notifiyer\app\build\intermediates\pre-dexed\release\classes-dd0d835c9d6c8a23614536e550e56d54f776c5b4.jar" />
+    </item>
+
+</items>
